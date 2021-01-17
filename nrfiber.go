@@ -1,0 +1,5 @@
+package nrfiber
+
+func Middleware() {
+
+}
